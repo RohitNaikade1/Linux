@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Employee_Info
+xmlns:xsi="http://www.w3.org/2001/XMLSchema­instance"
+xsi:noNamespaceSchemaLocation="employee.xs">
+<Employee Employee_Number="105">
+<Name>Clark Gable</Name>
+<Department>Design Department</Department>
+<Email>clark@gable.com</Email>
+</Employee>
+<Employee Employee_Number="109">
+<Name>Aiko Tanaka</Name>
+<Department>Sales Department</Department>
+<Email>aiko@tanaka.com</Email>
+</Employee>
+<Employee Employee_Number="109">
+<Name>Kary Grant</Name>
+<Department>Sales Department</Department>
+<Email>kary@grant.com</Email>
+</Employee>
+</Employee_Info>
